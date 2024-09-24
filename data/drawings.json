@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1727116028927,
+    "roomId": "10",
+    "drawingData": [
+      {
+        "tool": "circle",
+        "startX": 385,
+        "startY": 159,
+        "endX": 499,
+        "endY": 236,
+        "color": "#000000"
+      },
+      {
+        "tool": "circle",
+        "startX": 447,
+        "startY": 122,
+        "endX": 566,
+        "endY": 152,
+        "color": "#f23131"
+      },
+      {
+        "tool": "rectangle",
+        "startX": 214,
+        "startY": 159,
+        "endX": 758,
+        "endY": 363,
+        "color": "#f23131"
+      }
+    ]
+  }
+]
